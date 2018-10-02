@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Places Search</string>
+    <string name = "detail">Search results</string>
+    <string name="tab_text_1">SEARCH</string>
+    <string name="tab_text_2">FAVORITES</string>
+    <string name ="tab_text_3">INFO</string>
+    <string name ="tab_text_4">PHOTOS</string>
+    <string name = "tab_text_5">MAP</string>
+    <string name = "tab_text_6">REVIEWS</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_info">infoActivity</string>
+    <string name = "from">From</string>
+    <string name = "address">Address</string>
+    <string name = "phone">Phone Number</string>
+    <string name = "price">Prive Level</string>
+    <string name = "rate">Rating</string>
+    <string name = "page">Google Page</string>
+    <string name = "website">Website</string>
+    <string name = "hint">Type in the location</string>
+    <string name ="mode">Travel mode</string>
+    <string name = "mode1">Driving</string>
+    <string name = "mode2">Bicycling</string>
+    <string name= "mode3">Transit</string>
+    <string name = "mode4">Walking</string>
+    <string name = "view1">Google reviews</string>
+    <string name = "view2">Yelp reviews</string>
+    <string name = "rate1">Default order</string>
+    <string name = "rate2">Highest rating</string>
+    <string name = "rate3">Lowest rating</string>
+    <string name = "rate4">Most recent</string>
+    <string name = "rate5">Least recent</string>
+    <string name = "no">No results</string>
+    <string name = "nophoto">No photos</string>
+    <string name = "validation">Please enter mandatory field</string>
+    <string name = "previous">PREVIOUS</string>
+    <string name ="next" >NEXT</string>
+</resources>

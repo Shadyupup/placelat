@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="modelist">
+        <item>@string/mode1</item>
+        <item>@string/mode2</item>
+        <item>@string/mode3</item>
+        <item>@string/mode4</item>
+
+
+    </string-array>
+    <string-array name="viewlist">
+        <item>@string/view1</item>
+        <item>@string/view2</item>
+    </string-array>
+    <string-array name="ratelist">
+        <item>@string/rate1</item>
+        <item>@string/rate2</item>
+        <item>@string/rate3</item>
+        <item>@string/rate4</item>
+        <item>@string/rate5</item>
+
+    </string-array>
+</resources>
